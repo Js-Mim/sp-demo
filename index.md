@@ -9,7 +9,7 @@ Using speech signals from test sub-set we compute a couple frequency responses f
 
 
 ![Example 1](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_a.png)
-                                     -> **Example 1** <-
+                                     <p align="center"> Example 1** </p>
                                         
 ![Example 2](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_b.png)
                                      -> **Example 2** <-
