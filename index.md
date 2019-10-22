@@ -33,16 +33,31 @@ Using speech signals from test sub-set we compute a couple frequency responses f
 Audio examples using data-points from the test sub-set. The goal is to **match** the **EQ and spectral characteristics** of the **input** signal to the **reference** signal.
 
 <p align="center"> <b>Example 1</b></p>
-Input: <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/raw/master/audio_files/ex1_input.wav"></audio>
-Reference: <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/raw/master/audio_files/ex1_reference.wav"></audio>
-Processed: <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/raw/master/audio_files/ex1_estimated.wav"></audio>
+Input: 
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/raw/master/audio_files/ex1_input.wav"></audio>
+
+Reference: 
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/raw/master/audio_files/ex1_reference.wav"></audio>
+
+Processed: 
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/raw/master/audio_files/ex1_estimated.wav"></audio>
 
 <p align="center"> <b>Example 2</b></p>
-Input: <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/raw/master/audio_files/ex2_input.wav"></audio>
-Reference: <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/raw/master/audio_files/ex2_reference.wav"></audio>
-Processed: <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/raw/master/audio_files/ex2_estimated.wav"></audio>
+Input: 
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/raw/master/audio_files/ex2_input.wav"></audio>
+
+Reference: 
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/raw/master/audio_files/ex2_reference.wav"></audio>
+
+Processed: 
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/raw/master/audio_files/ex2_estimated.wav"></audio>
 
 <p align="center"> <b>Example 3</b></p>
-Input: <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/raw/master/audio_files/ex3_input.wav"></audio>
-Reference: <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/raw/master/audio_files/ex3_reference.wav"></audio>
-Processed: <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/raw/master/audio_files/ex3_estimated.wav"></audio>
+Input: 
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/raw/master/audio_files/ex3_input.wav"></audio>
+
+Reference: 
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/raw/master/audio_files/ex3_reference.wav"></audio>
+
+Processed: 
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/raw/master/audio_files/ex3_estimated.wav"></audio>
