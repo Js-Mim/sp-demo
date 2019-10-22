@@ -1,10 +1,7 @@
 ---
 layout: default
 ---
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
+**Audio production** is a difficult process for most people, and properly manipulating sound to achieve a certain effect is **non-trivial**. We present a **method** that facilitates this process by **inferring appropriate audio effect parameters** in order to **make an input recording sound better**. This page provides supplementary material to our work.
 
 There should be whitespace between paragraphs.
 
