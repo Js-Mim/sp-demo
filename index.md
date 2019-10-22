@@ -28,6 +28,16 @@ Using speech signals from test sub-set we compute a couple frequency responses f
 ![Example 5](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_e.png)
 
 
-![The Sound File]()
 
-<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/mss_pytorch/gh-pages/mp3files/Al%20James%20-%20Schoolboy%20Fascination-01.mp3"></audio>
+# Audio Examples
+Audio examples using data-points from the test sub-set. The goal is to **match** the **EQ and spectral characteristics** of the **input** signal to the **reference** signal.
+
+<p align="center"> <b>Example 1</b></p>
+Input: <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/raw/master/audio_files/ex1_input.wav"></audio>
+Reference: <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/raw/master/audio_files/ex1_reference.wav"></audio>
+Processed: <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/raw/master/audio_files/ex1_estimated.wav"></audio>
+
+<p align="center"> <b>Example 1</b></p>
+Input: <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/raw/master/audio_files/ex2_input.wav"></audio>
+Reference: <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/raw/master/audio_files/ex2_reference.wav"></audio>
+Processed: <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/raw/master/audio_files/ex2_estimated.wav"></audio>
