@@ -5,3 +5,9 @@ layout: default
 
 # Frequency Responses
 Using speech signals from test sub-set we compute a couple frequency responses for the **ideal** and **predicted** EQ parameters.
+
+![alt text](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_a.png)
+![alt text](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_b.png)
+![alt text](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_c.png)
+![alt text](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_d.png)
+![alt text](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_e.png)
