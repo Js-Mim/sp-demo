@@ -28,4 +28,6 @@ Using speech signals from test sub-set we compute a couple frequency responses f
 ![Example 5](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_e.png)
 
 
-![The Sound File](https://raw.githubusercontent.com/Js-Mim/mss_pytorch/gh-pages/mp3files/Al%20James%20-%20Schoolboy%20Fascination-01.mp3)
+![The Sound File]()
+
+<audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" alt="The Sound File">&lt;source src="https://raw.githubusercontent.com/Js-Mim/mss_pytorch/gh-pages/mp3files/Al%20James%20-%20Schoolboy%20Fascination-01.mp3"&gt;Your browser does not support the audio tag.</audio>
