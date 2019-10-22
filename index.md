@@ -64,3 +64,82 @@ Reference:
 
 Processed: 
 <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex3_estimated.wav"></audio>
+
+**Audio Example 4**
+
+Input: 
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex4_input.wav"></audio>
+
+Reference: 
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex4_reference.wav"></audio>
+
+Processed: 
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex4_estimated.wav"></audio>
+
+**Audio Example 5**
+
+Input: 
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex5_input.wav"></audio>
+
+Reference: 
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex5_reference.wav"></audio>
+
+Processed: 
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex5_estimated.wav"></audio>
+
+**Audio Example 6**
+
+Input: 
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex6_input.wav"></audio>
+
+Reference: 
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex6_reference.wav"></audio>
+
+Processed: 
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex6_estimated.wav"></audio>
+
+
+**Audio Example 7**
+
+Input: 
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex7_input.wav"></audio>
+
+Reference: 
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex7_reference.wav"></audio>
+
+Processed: 
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex7_estimated.wav"></audio>
+
+**Audio Example 8**
+
+Input: 
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex8_input.wav"></audio>
+
+Reference: 
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex8_reference.wav"></audio>
+
+Processed: 
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex8_estimated.wav"></audio>
+
+**Audio Example 9**
+
+Input: 
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex9_input.wav"></audio>
+
+Reference: 
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex9_reference.wav"></audio>
+
+Processed: 
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex9_estimated.wav"></audio>
+
+
+**Audio Example 10**
+
+Input: 
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex10_input.wav"></audio>
+
+Reference: 
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex10_reference.wav"></audio>
+
+Processed: 
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex10_estimated.wav"></audio>
