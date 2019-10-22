@@ -9,16 +9,16 @@ Using speech signals from test sub-set we compute a couple frequency responses f
 
 
 ![Example 1](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_a.png)
-                                     <p align="center"> Example 1** </p>
+ <p align="center"> <b>Example 1</b></p>
                                         
 ![Example 2](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_b.png)
-                                     -> **Example 2** <-
+<p align="center"> <b>Example 2</b></p>
                                         
 ![Example 3](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_c.png)
-                                      -> **Example 3** <-
+<p align="center"> <b>Example 3</b></p>
                                         
 ![Example 4](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_d.png)
-                                      -> **Example 4** <-
+<p align="center"> <b>Example 4</b></p>
                                         
 ![Example 5](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_e.png)
-                                       -> **Example 5** <-
+<p align="center"> <b>Example 5</b></p>
