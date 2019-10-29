@@ -76,12 +76,13 @@ We randomly selected four data-points from the test-subset. The selection was ba
 
 
 ###### Proposed model with dB valued representation
+
 |**Extracted**|**Fed**|
 |:-----------:|:-----:|
-|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_pm/latent_tc1.png)|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_pm/comp_tc1.png)|
-![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_pm/latent_tc2.png)|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_pm/comp_tc3.png)|
-![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_pm/latent_tc3.png)|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_pm/comp_tc3.png)|
-![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_pm/latent_tc4.png)|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_pm/comp_tc4.png)|
+| ![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_pm/latent_tc1.png) | ![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_pm/comp_tc1.png)|
+![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_pm/latent_tc2.png) | ![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_pm/comp_tc3.png)|
+![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_pm/latent_tc3.png) | ![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_pm/comp_tc3.png)|
+![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_pm/latent_tc4.png) | ![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_pm/comp_tc4.png)|
 
 
 ###### Observations & Take-home Messages
@@ -91,4 +92,3 @@ From the above collection of figures we could potentially conclude the following
 3. A bartrick is to employ a dB valued representation. During training, via gradient descent, it is shown that it extends the numerical range of values in the latent space dramatically. However, this simply increases the values of the observed learned residue and the *fed* signal still suffers from a couple of nullified coefficients.
 4. Using the proposed method, the latent information *fed* to the predictor lies in sensible numerical ranges.
 5. The introduced novelties in our proposed method, not only alleviate the nullification of information relevant to the predictor, but also "bias" our expected predictor in a exploitable, for the predictor, manner.
-
