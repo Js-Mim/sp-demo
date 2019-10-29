@@ -4,12 +4,7 @@ exclude:
   
 sass:
   style: :compressed
-
-# theme: jekyll-theme-texture
-
-gems:
-  - jekyll-paginate
-  - jekyll/tagging
+  
+theme: jekyll-theme-texture
   
 title: "One-shot Parametirc Audio Production Style Transfer with Application to Frequency Equalization"
-subtitle: Support Material 
