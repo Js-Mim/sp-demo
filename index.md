@@ -51,7 +51,7 @@ Audio examples using data-points from the test sub-set. The goal is to **match**
 | Ex. 10 | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex10_input.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex10_reference.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex10_estimated.wav"></audio> |
 
 # Latent Business
-We randomly selected four data-points from the test-subset. The selection was based on the loudness of the input and reference sound files. Data-points containing less than -35 dB LUFS, were discarded. Those four data-points are served as input to the three models discussed in our paper. The following figures illustrate *two* signals:
+We randomly selected four data-points from the test-subset. The selection was based on the loudness of the input and reference sound files, and covering two successful and two not so successful predictions according to the computed test-error. Data-points containing less than -35 dB LUFS, were discarded. Those four data-points are served as input to the three models discussed in our paper. The following figures illustrate *two* signals:
 1. The output of the **Latent Feature Extractor** sub-module (*extracted*)
 2. The latent signal fed to the **Predictor** sub-module (*fed*).
 
