@@ -80,7 +80,7 @@ We randomly selected four data-points from the test-subset. The selection was ba
 |**Extracted**|**Fed**|
 |:-----------:|:-----:|
 | ![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_pm/latent_tc1.png) | ![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_pm/comp_tc1.png)|
-![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_pm/latent_tc2.png) | ![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_pm/comp_tc3.png)|
+![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_pm/latent_tc2.png) | ![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_pm/comp_tc2.png)|
 ![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_pm/latent_tc3.png) | ![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_pm/comp_tc3.png)|
 ![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_pm/latent_tc4.png) | ![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_pm/comp_tc4.png)|
 
