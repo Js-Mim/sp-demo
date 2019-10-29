@@ -58,12 +58,18 @@ We randomly selected four data-points from the test-subset. The selection was ba
 ###### Baseline model
 |**Extracted**|**Fed**|
 |:-----------:|:-----:|
-|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/linear_mel_bl/latent_tc1.png)|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/linear_mel_bl/res_tc1.png)|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/linear_mel_bl/latent_tc2.png)|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/linear_mel_bl/res_tc3.png)|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/linear_mel_bl/latent_tc3.png)|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/linear_mel_bl/res_tc3.png)|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/linear_mel_bl/latent_tc4.png)|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/linear_mel_bl/res_tc4.png)|
+|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/linear_mel_bl/latent_tc1.png)|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/linear_mel_bl/res_tc1.png)|
+![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/linear_mel_bl/latent_tc2.png)|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/linear_mel_bl/res_tc3.png)|
+![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/linear_mel_bl/latent_tc3.png)|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/linear_mel_bl/res_tc3.png)|
+![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/linear_mel_bl/latent_tc4.png)|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/linear_mel_bl/res_tc4.png)|
 
 ###### Baseline model with dB valued representation
 |**Extracted**|**Fed**|
 |:-----------:|:-----:|
-|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_bl/latent_tc1.png)|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_bl/res_tc1.png)|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_bl/latent_tc2.png)|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_bl/res_tc3.png)|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_bl/latent_tc3.png)|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_bl/res_tc3.png)|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_bl/latent_tc4.png)|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_bl/res_tc4.png)|
+|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_bl/latent_tc1.png)|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_bl/res_tc1.png)|
+![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_bl/latent_tc2.png)|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_bl/res_tc3.png)|
+![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_bl/latent_tc3.png)|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_bl/res_tc3.png)|
+![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_bl/latent_tc4.png)|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_bl/res_tc4.png)|
 
 
 ###### Proposed model with dB valued representation
