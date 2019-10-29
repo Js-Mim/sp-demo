@@ -30,37 +30,12 @@ Using speech signals from test sub-set we compute a couple frequency responses f
 
 
 # Audio Examples
-Audio examples using data-points from the test sub-set. The goal is to **match** the **EQ and spectral characteristics** of the **input** signal to the **reference** signal.
-
-<table style="width:100%">
-  <tr>
-    <th>Input</th>
-    <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex1_input.wav"></audio>
-    <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex1_reference.wav"</audio>
-  </tr>
-  <tr>
-    <th> Audio Example 1 </th> 
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-</table>
-
-**Audio Example 1**
-
-Input: 
+Audio examples using data-points from the test sub-set. The goal is to **match** the **EQ/spectral characteristics** of the **input** signal to the **reference** signal.
 
 
-Reference: 
-
-Processed: 
-<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex1_estimated.wav"></audio>
-
+   |Example|Input|Reference|Processed|
+   |**Example 1**|<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex1_input.wav"></audio>|<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex1_reference.wav"</audio>|<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex1_estimated.wav"></audio>|
+   
 **Audio Example 2**
 
 Input: 
