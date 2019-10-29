@@ -2,4 +2,7 @@
 
 source 'https://rubygems.org'
 
-gemspec
+gem 'bundler'
+gem 'jekyll'
+gem 'jekyll-paginate'
+gem 'jekyll-tagging'
