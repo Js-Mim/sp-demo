@@ -2,9 +2,9 @@
 layout: default
 ---
 **Audio production** is a difficult process for most people, and properly manipulating sound to achieve a certain effect is **non-trivial**. We present a **method** that facilitates this process by **inferring appropriate audio effect parameters**. This page provides **supplementary material** to our work that gives an emphasis to **frequency equalization** (EQ). The supplementary material focuses on three "qualitative" aspects:
-..* Frequence responses
-..* Audio examples
-..* Latent feature visualization
+* Frequence responses
+* Audio examples
+* Latent feature visualization
 
 # Frequency Responses
 Using speech signals from test sub-set we compute a couple frequency responses for the **ideal** and **predicted** EQ parameters.
