@@ -1,7 +1,10 @@
 ---
 layout: default
 ---
-**Audio production** is a difficult process for most people, and properly manipulating sound to achieve a certain effect is **non-trivial**. We present a **method** that facilitates this process by **inferring appropriate audio effect parameters** in order to **make an input recording sound better**. This page provides supplementary material to our work that gives an emphasis to **frequency equalization** (EQ).
+**Audio production** is a difficult process for most people, and properly manipulating sound to achieve a certain effect is **non-trivial**. We present a **method** that facilitates this process by **inferring appropriate audio effect parameters**. This page provides **supplementary material** to our work that gives an emphasis to **frequency equalization** (EQ). The supplementary material focuses on three "qualitative" aspects:
+..* Frequence responses
+..* Audio examples
+..* Latent feature visualization
 
 # Frequency Responses
 Using speech signals from test sub-set we compute a couple frequency responses for the **ideal** and **predicted** EQ parameters.
@@ -46,3 +49,26 @@ Audio examples using data-points from the test sub-set. The goal is to **match**
 | Ex. 8 | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex8_input.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex8_reference.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex8_estimated.wav"></audio> |
 | Ex. 9 | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex9_input.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex9_reference.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex9_estimated.wav"></audio> |
 | Ex. 10 | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex10_input.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex10_reference.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex10_estimated.wav"></audio> |
+
+# Latent Business
+We randomly selected four data-points from the test-subset. The selection was based on the loudness of the input and reference sound files. Data-points containing less than -35 dB LUFS, were discarded. Those four data-points are served as input to the three models discussed in our paper. The following figures illustrate *two* signals:
+1. The output of the **Latent Feature Extractor** sub-module (__extracted__)
+2. The latent signal fed to the **Predictor** sub-module (__fed__).
+
+###### Baseline model
+|**Extracted**|**Fed**|
+|:-----------:|:-----:|
+|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/results/linear_mel_bl/latent_tc1.png)| ![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/results/linear_mel_bl/res_tc1.png)|
+|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/results/linear_mel_bl/latent_tc2.png)| ![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/results/linear_mel_bl/res_tc3.png)|
+|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/results/linear_mel_bl/latent_tc3.png)| ![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/results/linear_mel_bl/res_tc3.png)|
+|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/results/linear_mel_bl/latent_tc4.png)| ![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/results/linear_mel_bl/res_tc4.png)|
+
+###### Baseline model with dB valued representation
+|**Extracted**|**Fed**|
+|:-----------:|:-----:|
+
+
+###### Proposed model with dB valued representation
+|**Extracted**|**Fed**|
+|:-----------:|:-----:|
+
