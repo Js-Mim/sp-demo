@@ -5,6 +5,6 @@ exclude:
 sass:
   style: :compressed
   
-theme: jekyll-theme-texture
+theme: jekyll-theme-primer
   
 title: "One-shot Parametirc Audio Production Style Transfer with Application to Frequency Equalization"
