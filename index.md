@@ -80,3 +80,12 @@ We randomly selected four data-points from the test-subset. The selection was ba
 ![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_pm/latent_tc3.png)|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_pm/comp_tc3.png)|
 ![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_pm/latent_tc4.png)|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_pm/comp_tc4.png)|
 
+
+###### Observations & Take-home Messages
+From the above collection of figures we could potentially conclude the following:
+1. Our theoretical expectactions, presented in the corresponding paper, are not very far away from the experimental realization (illustrated above). That is especially for the baseline models that employ a deterministic function, i.e., the element-wise subtraction, for the computation of the latent space that is *fed* to the predictor.
+2. The baseline method, that uses the element-wise subtraction, yields a degenerate (sparse and low-norm vector, wrt to our problem) latent space. This *partially* supports the experimental results presented in the paper.
+3. A bartrick is to employ a dB valued representation. During training, via gradient descent, it is shown that it extends the numerical range of values in the latent space dramatically. However, this simply increases the values of the observed learned residue and the *fed* signal still suffers from a couple of nullified coefficients.
+4. Using the proposed method, the latent information *fed* to the predictor lies in sensible numerical ranges.
+5. The introduced novelties in our proposed method, not only alleviate the nullification of information relevant to the predictor, but also "bias" our expected predictor in a exploitable, for the predictor, manner.
+
