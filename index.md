@@ -36,8 +36,8 @@ Audio examples using data-points from the test sub-set. The goal is to **match**
   <tr>
     <th>Input</th>
     <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex1_input.wav"></audio>
-    <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex1_reference.wav"></audio>
-
+    <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex1_reference.wav"</audio>
+  </tr>
   <tr>
     <th> Audio Example 1 </th> 
     <td>Jill</td>
