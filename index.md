@@ -52,8 +52,8 @@ Audio examples using data-points from the test sub-set. The goal is to **match**
 
 # Latent Business
 We randomly selected four data-points from the test-subset. The selection was based on the loudness of the input and reference sound files. Data-points containing less than -35 dB LUFS, were discarded. Those four data-points are served as input to the three models discussed in our paper. The following figures illustrate *two* signals:
-1. The output of the **Latent Feature Extractor** sub-module (__extracted__)
-2. The latent signal fed to the **Predictor** sub-module (__fed__).
+1. The output of the **Latent Feature Extractor** sub-module (*extracted*)
+2. The latent signal fed to the **Predictor** sub-module (*fed*).
 
 ###### Baseline model
 |**Extracted**|**Fed**|
@@ -75,4 +75,8 @@ We randomly selected four data-points from the test-subset. The selection was ba
 ###### Proposed model with dB valued representation
 |**Extracted**|**Fed**|
 |:-----------:|:-----:|
+|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_pm/latent_tc1.png)|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_pm/res_tc1.png)|
+![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_pm/latent_tc2.png)|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_pm/res_tc3.png)|
+![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_pm/latent_tc3.png)|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_pm/res_tc3.png)|
+![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_pm/latent_tc4.png)|![ ](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/results/db_mel_pm/res_tc4.png)|
 
