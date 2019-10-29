@@ -36,6 +36,14 @@ Audio examples using data-points from the test sub-set. The goal is to **match**
    |Example|Input|Reference|Processed|
    
    |**Example 1**|<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex1_input.wav"></audio>|<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex1_reference.wav"</audio>|<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex1_estimated.wav"></audio>|
+
+
+**Example**|**Input**|**Reference**|**Processed**|
+|:-------------:|:-------------:|:-----:|:-----:|
+| col 3 is      | right-aligned | $1600 | $1600 |
+| col 2 is      | centered      |   $12 | $1600 |
+| zebra stripes | are neat      |    $1 | $1600 |
+
    
 **Audio Example 2**
 
