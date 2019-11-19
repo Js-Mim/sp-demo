@@ -30,6 +30,13 @@ Using speech signals from test sub-set we compute a couple frequency responses f
 
 ![Example 5](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_e.png)
 
+<p align="center"> <b>Example 6</b></p>                                       
+
+![Example 5](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_f.png)
+
+<p align="center"> <b>Example 7</b></p>                                       
+
+![Example 5](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_g.png)
 
 
 # Audio Examples
