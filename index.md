@@ -49,7 +49,7 @@ Using speech signals from test sub-set we compute a couple frequency responses f
 <p align="center"> <b>Example 7</b></p>                                       
 
 ![Example 6](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_g.png)
-<p align="center"> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_6_cs.png" width="600" height="380" /> </p>
+<p align="center"> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_g_cs.png" width="600" height="380" /> </p>
 
 
 
