@@ -13,7 +13,7 @@ Using speech signals from test sub-set we compute a couple frequency responses f
 <p align="center"> <b>Example 1</b></p>
 
 ![Example 1](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_a.png)
-<p align="center"> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_a_cs.png" width="550" height="383" /> </p>
+<p align="center"> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_a_cs.png" width="600" height="380" /> </p>
 
 
 <p align="center"> <b>Example 2</b></p>                                        
