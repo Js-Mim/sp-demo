@@ -19,32 +19,38 @@ Using speech signals from test sub-set we compute a couple frequency responses f
 <p align="center"> <b>Example 2</b></p>                                        
 
 ![Example 2](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_b.png)
-![Example 2](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_b_cs.png)
+<p align="center"> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_b_cs.png" width="600" height="380" /> </p>
+
 
 <p align="center"> <b>Example 3</b></p>                                        
 
 ![Example 3](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_c.png)
-![Example 3](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_c_cs.png)
+<p align="center"> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_c_cs.png" width="600" height="380" /> </p>
+
 
 <p align="center"> <b>Example 4</b></p>                                        
 
 ![Example 4](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_d.png)
-![Example 4](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_d_cs.png)
+<p align="center"> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_d_cs.png" width="600" height="380" /> </p>
+
 
 <p align="center"> <b>Example 5</b></p>                                       
 
 ![Example 5](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_e.png)
-![Example 5](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_e_cs.png)
+<p align="center"> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_e_cs.png" width="600" height="380" /> </p>
+
 
 <p align="center"> <b>Example 6</b></p>                                       
 
 ![Example 5](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_f.png)
-![Example 5](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_f_cs.png)
+<p align="center"> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_f_cs.png" width="600" height="380" /> </p>
+
 
 <p align="center"> <b>Example 7</b></p>                                       
 
-![Example 5](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_g.png)
-![Example 5](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_g_cs.png)
+![Example 6](https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_g.png)
+<p align="center"> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/figures/f_r_6_cs.png" width="600" height="380" /> </p>
+
 
 
 # Audio Examples
