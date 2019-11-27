@@ -182,4 +182,3 @@ The following audio examples demonstrate the above in two scenarios:
 <p align="center"> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/sibilance_examples/ex8.png" width="600" height="380" /> </p>
 
 ###### Muddy bass
-----:|:-----------:|:-----------:|:-----------:|
