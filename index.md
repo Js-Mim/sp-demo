@@ -129,6 +129,7 @@ The following audio examples demonstrate the above in two scenarios:
 |**Input**|**Reference**|**Processed**|
 |:-------:|:-----------:|:-----------:|
 | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/sibilance_examples/ex1_input.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/sibilance_examples/ex1_reference.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/sibilance_examples/ex1_estimated.wav"></audio> |
+
 <p align="center"> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/sibilance_examples/ex1.png" width="600" height="380" /> </p>
 
 <p align="center"> <b>Example 2</b></p>
@@ -136,6 +137,7 @@ The following audio examples demonstrate the above in two scenarios:
 |**Input**|**Reference**|**Processed**|
 |:-------:|:-----------:|:-----------:|
 | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/sibilance_examples/ex2_input.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/sibilance_examples/ex2_reference.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/sibilance_examples/ex2_estimated.wav"></audio> |
+
 <p align="center"> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/sibilance_examples/ex2.png" width="600" height="380" /> </p>
 
 <p align="center"> <b>Example 3</b></p>
@@ -143,6 +145,7 @@ The following audio examples demonstrate the above in two scenarios:
 |**Input**|**Reference**|**Processed**|
 |:-------:|:-----------:|:-----------:|
 | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/sibilance_examples/ex3_input.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/sibilance_examples/ex3_reference.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/sibilance_examples/ex3_estimated.wav"></audio> |
+
 <p align="center"> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/sibilance_examples/ex3.png" width="600" height="380" /> </p>
 
 <p align="center"> <b>Example 4</b></p>
@@ -150,6 +153,7 @@ The following audio examples demonstrate the above in two scenarios:
 |**Input**|**Reference**|**Processed**|
 |:-------:|:-----------:|:-----------:|
 | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/sibilance_examples/ex4_input.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/sibilance_examples/ex4_reference.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/sibilance_examples/ex4_estimated.wav"></audio> |
+
 <p align="center"> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/sibilance_examples/ex4.png" width="600" height="380" /> </p>
 
 <p align="center"> <b>Example 5</b></p>
@@ -157,6 +161,7 @@ The following audio examples demonstrate the above in two scenarios:
 |**Input**|**Reference**|**Processed**|
 |:-------:|:-----------:|:-----------:|
 | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/sibilance_examples/ex5_input.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/sibilance_examples/ex5_reference.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/sibilance_examples/ex5_estimated.wav"></audio> |
+
 <p align="center"> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/sibilance_examples/ex5.png" width="600" height="380" /> </p>
 
 <p align="center"> <b>Example 6</b></p>
@@ -164,6 +169,7 @@ The following audio examples demonstrate the above in two scenarios:
 |**Input**|**Reference**|**Processed**|
 |:-------:|:-----------:|:-----------:|
 | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/sibilance_examples/ex6_input.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/sibilance_examples/ex6_reference.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/sibilance_examples/ex6_estimated.wav"></audio> |
+
 <p align="center"> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/sibilance_examples/ex6.png" width="600" height="380" /> </p>
 
 
@@ -172,6 +178,7 @@ The following audio examples demonstrate the above in two scenarios:
 |**Input**|**Reference**|**Processed**|
 |:-------:|:-----------:|:-----------:|
 | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/sibilance_examples/ex7_input.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/sibilance_examples/ex7_reference.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/sibilance_examples/ex7_estimated.wav"></audio> |
+
 <p align="center"> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/sibilance_examples/ex7.png" width="600" height="380" /> </p>
 
 <p align="center"> <b>Example 8</b></p>
@@ -179,6 +186,7 @@ The following audio examples demonstrate the above in two scenarios:
 |**Input**|**Reference**|**Processed**|
 |:-------:|:-----------:|:-----------:|
 | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/sibilance_examples/ex8_input.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/sibilance_examples/ex8_reference.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/sibilance_examples/ex8_estimated.wav"></audio> |
+
 <p align="center"> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/sibilance_examples/ex8.png" width="600" height="380" /> </p>
 
 ###### Muddy bass
