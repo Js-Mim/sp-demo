@@ -57,7 +57,7 @@ Using speech signals from test sub-set we compute a couple frequency responses f
 # Audio Examples
 Audio examples using data-points from the test sub-set. The goal is to **match** the **EQ/spectral characteristics** of the **input** signal to the **reference** signal.
 
-
+## Speech Signals
 
 |**Example**|**Input**|**Reference**|**Processed**|
 |:--------:|:-------:|:-----------:|:-----------:|
@@ -71,6 +71,13 @@ Audio examples using data-points from the test sub-set. The goal is to **match**
 | Ex. 8 | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex8_input.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex8_reference.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex8_estimated.wav"></audio> |
 | Ex. 9 | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex9_input.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex9_reference.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex9_estimated.wav"></audio> |
 | Ex. 10 | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex10_input.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex10_reference.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex10_estimated.wav"></audio> |
+
+## Music Signals
+The tests on music signals were simply performed by using the proposed method, that was trained on speech signals of 3 seconds, with variable length excerpts, i.e., no re-training or any additional routines were considered. The music signals were acquired from [MUSDB18](https://zenodo.org/record/3338373).
+
+|**Example**|**Input**|**Reference**|**Processed**|
+|:--------:|:-------:|:-----------:|:-----------:|
+| Ex. 1 | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/mus_ex_1_input.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/mus_ex_1_target.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/mus_ex_1_processed.wav"></audio> |
 
 # Latent Business
 
