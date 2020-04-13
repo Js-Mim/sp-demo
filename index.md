@@ -1,10 +1,13 @@
 ---
 layout: default
 ---
+Supplementary material for our [ICASSP2020 submission](TBA).
+The presentation of our work can be found [here](TBA).
+
 ### Authors
 [Stylianos I. Mimilakis](https://github.com/Js-Mim), [Nicholas J. Bryan](https://research.adobe.com/person/nicholas-j-bryan/), [Paris Smaragdis](https://paris.cs.illinois.edu/)
 
-
+# Introduction
 **Audio production** is a difficult process for most people, and properly manipulating sound to achieve a certain effect is **non-trivial**. We present a **method** that facilitates this process by **inferring appropriate audio effect parameters**. This page provides **supplementary material** to our work that gives an emphasis to **frequency equalization** (EQ). The supplementary material focuses on three "qualitative" aspects:
 * Frequency responses
 * Audio examples
