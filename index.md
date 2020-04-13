@@ -73,7 +73,7 @@ Audio examples using data-points from the test sub-set. The goal is to **match**
 | Ex. 10 | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex10_input.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex10_reference.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/audio_files/ex10_estimated.wav"></audio> |
 
 ## Music Signals
-The tests on music signals were simply performed by using the proposed method, that was trained on speech signals of 3 seconds, with variable length excerpts, i.e., no re-training or any additional routines were considered. The music signals were acquired from [MUSDB18](https://zenodo.org/record/3338373).
+The tests on music signals were simply performed by using the proposed method, that was trained on speech signals of 3 seconds, with variable length excerpts, i.e., no re-training or any additional routines were considered. The music signals were acquired from [MUSDB18](https://zenodo.org/record/3338373). To demonstrate the variability of the predicted EQ settings, we consider neighbouring music excerpts as examples and we also swap between what our proposed method considers as input and what was reference.
 
 |**Example**|**Input**|**Reference**|**Processed**|
 |:--------:|:-------:|:-----------:|:-----------:|
