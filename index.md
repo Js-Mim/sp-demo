@@ -78,6 +78,7 @@ The tests on music signals were simply performed by using the proposed method, t
 |**Example**|**Input**|**Reference**|**Processed**|
 |:--------:|:-------:|:-----------:|:-----------:|
 | Ex. 1 | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/mus_ex_1_input.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/mus_ex_1_target.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/mus_ex_1_processed.wav"></audio> |
+| Ex. 2 | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/mus_ex_2_input.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/mus_ex_2_target.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/sp-demo/master/application_examples/mus_ex_2_processed.wav"></audio> |
 
 # Latent Business
 
