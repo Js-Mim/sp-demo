@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Supplementary material for our [ICASSP2020 submission](TBA).
+Supplementary material for our [ICASSP2020 submission](https://ieeexplore.ieee.org/document/9054108).
 The presentation of our work can be found [here](TBA).
 
 ### Authors
