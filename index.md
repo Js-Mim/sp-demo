@@ -2,6 +2,7 @@
 layout: default
 ---
 Supplementary material for our [ICASSP2020 paper](https://ccrma.stanford.edu/~njb/research/icassp2020_style_transfer.pdf).
+
 [![The presentation of our work:](https://img.youtube.com/vi/_djACv33tuk/0.jpg)](https://www.youtube.com/watch?v=_djACv33tuk)
 
 ### Authors
