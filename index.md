@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-Supplementary material for our [ICASSP2020 submission](https://ieeexplore.ieee.org/document/9054108).
-The presentation of our work can be found [here](TBA).
+Supplementary material for our [ICASSP2020 paper](https://ccrma.stanford.edu/~njb/research/icassp2020_style_transfer.pdf).
+[![The presentation of our work:](https://img.youtube.com/vi/_djACv33tuk/0.jpg)](https://www.youtube.com/watch?v=_djACv33tuk)
 
 ### Authors
 [Stylianos I. Mimilakis](https://github.com/Js-Mim), [Nicholas J. Bryan](https://research.adobe.com/person/nicholas-j-bryan/), [Paris Smaragdis](https://paris.cs.illinois.edu/)
